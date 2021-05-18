@@ -2,10 +2,12 @@
 
 ## 🇧🇷 I'm from Brazil!
 ### 💻 I'm a dev student
-### I studing:
-- 🌎 HTML + CSS
+- 🌎 HTML5 + CSS
 - 🟧 JavaScript (a little bit)
 - 🐘 PHP
 - ☕ JAVA
+#### And now, I studying React :atom:
+#
+> I started on GitHub not long ago, so I think I have so much to learn 😄
 
-### And now, I studying React.
+Thanks to Visit! 😉
