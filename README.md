@@ -1,4 +1,5 @@
 <h1 align="center">Hello! 👋</h1>
+<h2 align="center">I am Wesley Andrade<br>And my nickname is ZeSy</h2>
 
 ## 🇧🇷 I'm from Brazil!
 ### 💻 I'm a dev student
