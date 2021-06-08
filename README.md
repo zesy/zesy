@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋</h1>
 <h2 align="center">I am Wesley Andrade<br>But call me ZeSy</h2>
 
-## 🇧🇷 I'm from Brazil!
+## <img src="https://raw.githubusercontent.com/zesy/zesy/main/_flags.ico/brazil-flag-32.png"> I'm from Brazil!
 ### 💻 I'm a dev student
 - 🌎 HTML5 + CSS
 - 🟧 JavaScript
