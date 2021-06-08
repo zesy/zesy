@@ -4,13 +4,15 @@
 ## 🇧🇷 I'm from Brazil!
 ### 💻 I'm a dev student
 - 🌎 HTML5 + CSS
-- 🟧 JavaScript (a little bit)
+- 🟧 JavaScript
 - 🐘 PHP
 - ☕ JAVA
 #### And now, I studying React :atom:
 #
 
 My Project on University  with PHP(MVC - without frameworks)-> [OPMProject](https://github.com/zesy/projectopm)
+
+My IGTI React BootCamp Projects and Challenges -> [IGTI BootCamp - React](https://github.com/zesy/IGTI-BootCamp_Projects)
 
 #
 > I started on GitHub not long ago, so I think I have so much to learn 😄
