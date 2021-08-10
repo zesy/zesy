@@ -21,7 +21,7 @@ ___
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=projectopm&show_owner=true&theme=midnight-purple)](https://github.com/zesy/projectopm)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=IGTI-BootCamp_Projects&show_owner=true&theme=midnight-purple)](https://github.com/zesy/IGTI-BootCamp_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=IGTI-BootCamp_Projects&theme=midnight-purple&show_owner=true)](https://github.com/zesy/IGTI-BootCamp_Projects)
   
 
 <!-- My Project on University  with PHP(MVC - without frameworks)-> [OPMProject](https://github.com/zesy/projectopm)
