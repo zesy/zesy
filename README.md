@@ -28,8 +28,6 @@ ___
 
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=projectopm&show_owner=true&theme=midnight-purple)](https://github.com/zesy/projectopm)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=IGTI-BootCamp_Projects&theme=midnight-purple&show_owner=true)](https://github.com/zesy/IGTI-BootCamp_Projects)
   
 
