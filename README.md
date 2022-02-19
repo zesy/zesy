@@ -28,12 +28,12 @@ ___
 
 </br>
 
+My IGTI React BootCamp Projects and Challenges -> [IGTI BootCamp - React](https://github.com/zesy/IGTI-BootCamp_Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=IGTI-BootCamp_Projects&theme=midnight-purple&show_owner=true)](https://github.com/zesy/IGTI-BootCamp_Projects)
-  
 
 My Project on University  with PHP(MVC - without frameworks)-> [OPMProject](https://github.com/zesy/opm-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=opm-project&theme=midnight-purple&show_owner=true)](https://github.com/zesy/opm-project)
 
-My IGTI React BootCamp Projects and Challenges -> [IGTI BootCamp - React](https://github.com/zesy/IGTI-BootCamp_Projects)
 
 ___
 
