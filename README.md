@@ -43,3 +43,6 @@ ___
 ### Lets to learn!
 
 ### Thanks to Visit! 😉
+<span align="center">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+</span>
