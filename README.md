@@ -32,7 +32,7 @@ My IGTI React BootCamp Projects and Challenges -> [IGTI BootCamp - React](https:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=IGTI-BootCamp_Projects&theme=midnight-purple&show_owner=true)](https://github.com/zesy/IGTI-BootCamp_Projects)
 
 My Project on University  with PHP(MVC - without frameworks)-> [OPMProject](https://github.com/zesy/opm-project) </br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=opm-project&theme=midnight-purple&show_owner=true)](https://github.com/zesy/opm-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zesy&repo=opm-project&theme=midnight-purple&show_owner=true&cache=0)](https://github.com/zesy/opm-project)
 
 
 ___
